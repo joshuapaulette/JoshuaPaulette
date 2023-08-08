@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joshua Paulette! <a href="https://www.linkedin.com/in/joshua_paulette/"> </a>
+<a <h1>Hi, I'm Joshua Paulette!  href="https://www.linkedin.com/in/joshua_paulette/"> </a>
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
