@@ -6,6 +6,7 @@
 
   - [CyberSecurity Asset Management (CSAM)](https://github.com/joshuapaulette/Certifications/blob/main/CSAM%20Cert.png)
   - [Scanning Strategies and Best Practices](https://github.com/joshuapaulette/Certifications/blob/main/Scanning%20Strategies.png)
+  - [Vulnerability Management Detection and Response (VMDR)](
 
 
   
