@@ -8,7 +8,7 @@
 
 <h2>📜 Certifications:</h2>
 
-  - [Link Title](Link)
+  - [CyberSecurity Asset Management (CSAM)](https://github.com/joshuapaulette/Certifications/blob/main/CSAM%20Cert.png)
 
 <h2>🛡️ Information Security Projects</h2>
 
