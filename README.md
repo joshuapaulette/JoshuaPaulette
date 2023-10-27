@@ -4,9 +4,9 @@
 
 <h2>📜 Certifications:</h2>
 
-  - [CyberSecurity Asset Management (CSAM)](https://github.com/joshuapaulette/Certifications/blob/main/CSAM%20Cert.png)
-  - [Scanning Strategies and Best Practices](https://github.com/joshuapaulette/Certifications/blob/main/Scanning%20Strategies.png)
-  - [Vulnerability Management Detection and Response (VMDR)](https://github.com/joshuapaulette/Certifications/blob/main/VMDR.png)
+  - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/joshuapaulette/Certifications/blob/main/CSAM%20Cert.png)
+  - [Qualys Scanning Strategies and Best Practices](https://github.com/joshuapaulette/Certifications/blob/main/Scanning%20Strategies.png)
+  - [Qualys Vulnerability Management Detection and Response (VMDR)](https://github.com/joshuapaulette/Certifications/blob/main/VMDR.png)
 
 
   
